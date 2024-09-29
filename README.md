@@ -1,5 +1,6 @@
 É um desafio resumir as habilidades, os conhecimentos e as entregas que têm ajudado a construir a minha carreira ao longo dos anos. Antes, era fácil associar a expertise com alguma tecnologia ou cargo e todos entenderiam o alcance das palavras. Hoje é diferente e o diferencial não é mais sobre aquilo que sempre fiz da mesma forma, mas sobre o quanto tenho conseguido aprender, entender, reunir e fazer funcionar om as novas stacks, linguagens, ferramentas e procesos dentro de cada projeto.
 
+Abaixo estão algumas tecnologias usadas ao longo do tempo:
 
 
 ##### Frontend
