@@ -1,5 +1,8 @@
-Para mim, é sempre um desafio resumir em poucas palavras as h
+É um desafio resumir as habilidades, os conhecimentos e as entregas que têm ajudado a construir a minha carreira ao longo dos anos. Antes, era fácil associar a expertise com alguma tecnologia ou cargo e todos entenderiam o alcance das palavras. Hoje é diferente e o diferencial não é mais sobre aquilo que sempre fiz da mesma forma, mas sobre o quanto tenho conseguido aprender, entender, reunir e fazer funcionar om as novas stacks, linguagens, ferramentas e procesos dentro de cada projeto.
 
+
+
+##### Frontend
 <div style="display: inline_block"><br>          
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />       
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />        
@@ -8,18 +11,21 @@ Para mim, é sempre um desafio resumir em poucas palavras as h
   <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
+##### Principais Linguagens de programação
 <div style="display: inline_block"><br>          
   <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 
+##### SGBD´s
 <div style="display: inline_block"><br>             
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
  <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
+##### Outras ferramentas
 <div style="display: inline_block"><br>             
   <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
